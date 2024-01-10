@@ -1,0 +1,8 @@
+[submodule "stm32f429zi_nucleo_freertos-bsp/sdk/STM32CubeF4"]
+	path = stm32f429zi_nucleo_freertos-bsp/sdk/STM32CubeF4
+	url = https://github.com/STMicroelectronics/STM32CubeF4.git
+	branch = master
+[submodule "stm32f429zi_nucleo_freertos-bsp/projects/microej/cppcheck/scripts"]
+	path = stm32f429zi_nucleo_freertos-bsp/projects/microej/cppcheck/scripts
+	url = git@gitlab.cross:M0113_Platformers/M0113_CPPCheck.git
+	branch = master
